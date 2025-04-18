@@ -1,1 +1,70 @@
-@import "tailwindcss";
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #f4883f;
+  --color-primary-focus: #e46d03;
+  --color-primary-content: #ffffff;
+  
+  --color-secondary: #606c76;
+  --color-secondary-focus: #3c3c4a;
+  --color-secondary-content: #ffffff;
+  
+  --color-accent: #20c997;
+  --color-accent-focus: #15a57b;
+  --color-accent-content: #ffffff;
+  
+  --color-neutral: #1e1e3a;
+  --color-neutral-focus: #111934;
+  --color-neutral-content: #ffffff;
+  
+  --color-base-100: #ffffff;
+  --color-base-200: #f9f9f7;
+  --color-base-300: #edede9;
+  --color-base-content: #0b152a;
+}
+
+/* Custom color utility classes */
+.text-primary { color: var(--color-primary); }
+.text-primary-focus { color: var(--color-primary-focus); }
+.text-primary-content { color: var(--color-primary-content); }
+
+.text-secondary { color: var(--color-secondary); }
+.text-secondary-focus { color: var(--color-secondary-focus); }
+.text-secondary-content { color: var(--color-secondary-content); }
+
+.text-accent { color: var(--color-accent); }
+.text-accent-focus { color: var(--color-accent-focus); }
+.text-accent-content { color: var(--color-accent-content); }
+
+.text-neutral { color: var(--color-neutral); }
+.text-neutral-focus { color: var(--color-neutral-focus); }
+.text-neutral-content { color: var(--color-neutral-content); }
+
+.text-base-content { color: var(--color-base-content); }
+
+.bg-primary { background-color: var(--color-primary); }
+.bg-primary-focus { background-color: var(--color-primary-focus); }
+.bg-primary-content { background-color: var(--color-primary-content); }
+
+.bg-secondary { background-color: var(--color-secondary); }
+.bg-secondary-focus { background-color: var(--color-secondary-focus); }
+.bg-secondary-content { background-color: var(--color-secondary-content); }
+
+.bg-accent { background-color: var(--color-accent); }
+.bg-accent-focus { background-color: var(--color-accent-focus); }
+.bg-accent-content { background-color: var(--color-accent-content); }
+
+.bg-neutral { background-color: var(--color-neutral); }
+.bg-neutral-focus { background-color: var(--color-neutral-focus); }
+.bg-neutral-content { background-color: var(--color-neutral-content); }
+
+.bg-base-100 { background-color: var(--color-base-100); }
+.bg-base-200 { background-color: var(--color-base-200); }
+.bg-base-300 { background-color: var(--color-base-300); }
+
+.border-base-300 { border-color: var(--color-base-300); }
+
+/* Hover utilities for interactive elements */
+.hover\:bg-primary-focus:hover { background-color: var(--color-primary-focus); }
+.hover\:text-primary-focus:hover { color: var(--color-primary-focus); }
+.hover\:text-secondary-focus:hover { color: var(--color-secondary-focus); }
