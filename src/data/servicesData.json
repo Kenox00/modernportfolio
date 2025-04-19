@@ -1,0 +1,465 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "shortDesc": "Get a professional, responsive website built with the latest technologies and best practices for optimal performance.",
+      "icon": "web",
+      "colorTheme": "orange",
+      "description": "I build custom websites that are fast, mobile-friendly and designed with both users and search engines in mind. From simple landing pages to complex web applications, I provide end-to-end development services.",
+      "detailedDescription": "I provide comprehensive web development services that focus on creating fast, responsive, and user-friendly websites. From simple landing pages to complex web applications, I'll ensure your website meets the highest standards of performance, accessibility, and design.",
+      "features": [
+        "Responsive design for all devices",
+        "SEO-optimized code structure",
+        "Performance optimization",
+        "Cross-browser compatibility",
+        "Content management systems",
+        "E-commerce functionality",
+        "Contact forms and user registration",
+        "Database integration",
+        "API development and integration",
+        "Web hosting and deployment",
+        "Regular maintenance and updates",
+        "Security implementation"
+      ],
+      "technologies": [
+        "HTML5", "CSS3", "JavaScript", "React", "Next.js", "Node.js", "TypeScript", "Tailwind CSS", "WordPress"
+      ],
+      "priceRanges": [
+        {
+          "name": "Basic",
+          "price": "$899",
+          "features": [
+            "5-page responsive website",
+            "Basic SEO setup",
+            "Contact form",
+            "Mobile responsive design",
+            "1 round of revisions"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$1,499",
+          "features": [
+            "10-page responsive website",
+            "Advanced SEO optimization",
+            "Content management system",
+            "Contact form with validation",
+            "Social media integration",
+            "Analytics setup",
+            "2 rounds of revisions"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$2,999",
+          "features": [
+            "Custom web application",
+            "E-commerce functionality",
+            "User authentication system",
+            "Custom database integration",
+            "Payment gateway integration",
+            "Advanced SEO optimization",
+            "Performance optimization",
+            "3 rounds of revisions",
+            "1 month of support post-launch"
+          ]
+        }
+      ],
+      "process": [
+        "Initial consultation to understand your requirements and goals",
+        "Planning and wireframing to establish site structure and functionality",
+        "Design mockups for your approval before development begins",
+        "Development phase with regular progress updates",
+        "Testing across devices and browsers to ensure compatibility",
+        "Deployment to your hosting environment",
+        "Post-launch support and maintenance"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "App Development",
+      "shortDesc": "Bring your app idea to life with intuitive interfaces and seamless functionality across all mobile platforms.",
+      "icon": "app",
+      "colorTheme": "blue",
+      "description": "I create powerful, user-friendly mobile applications that work seamlessly across different platforms and devices. From concept to deployment, I handle every aspect of the app development process.",
+      "detailedDescription": "I specialize in developing high-quality mobile applications for iOS and Android platforms. Using modern frameworks like React Native and Flutter, I create beautiful, performant apps that provide an excellent user experience while keeping development costs reasonable through cross-platform code sharing.",
+      "features": [
+        "Native and cross-platform development",
+        "Intuitive user interface design",
+        "Push notifications",
+        "User authentication",
+        "Offline functionality",
+        "API integration",
+        "Location-based services",
+        "Social media integration",
+        "Analytics implementation",
+        "App Store submission assistance",
+        "Maintenance and updates",
+        "Performance optimization"
+      ],
+      "technologies": [
+        "React Native", "Flutter", "Swift", "Kotlin", "JavaScript", "TypeScript", "Firebase", "Redux"
+      ],
+      "priceRanges": [
+        {
+          "name": "Basic",
+          "price": "$3,999",
+          "features": [
+            "Simple app with 5-7 screens",
+            "Basic user authentication",
+            "API integration",
+            "Cross-platform (iOS & Android)",
+            "1 round of revisions"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$7,999",
+          "features": [
+            "Medium complexity app with 8-12 screens",
+            "User authentication with social login",
+            "Push notifications",
+            "Offline functionality",
+            "API integration",
+            "Cross-platform (iOS & Android)",
+            "2 rounds of revisions"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$15,999+",
+          "features": [
+            "Complex app with 15+ screens",
+            "Advanced authentication system",
+            "Real-time data synchronization",
+            "Offline functionality with data sync",
+            "Payment processing",
+            "Location-based features",
+            "Push notifications",
+            "Analytics implementation",
+            "Cross-platform (iOS & Android)",
+            "3 rounds of revisions",
+            "3 months of support post-launch"
+          ]
+        }
+      ],
+      "process": [
+        "Discovery session to understand your app concept and requirements",
+        "UI/UX design and wireframing of app screens",
+        "Architecture planning and technical specification",
+        "Iterative development with regular demos",
+        "Comprehensive testing on real devices",
+        "Deployment to app stores",
+        "Post-launch support and updates"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "shortDesc": "Create intuitive, engaging user experiences with research-based design that delights your customers and boosts conversion rates.",
+      "icon": "design",
+      "colorTheme": "indigo",
+      "description": "I create intuitive, aesthetically pleasing user interfaces and seamless user experiences that keep people engaged with your digital products. My designs are both beautiful and functional.",
+      "detailedDescription": "Good design is more than just aesthetics—it's about creating intuitive experiences that solve problems for users. My UI/UX design services focus on research-driven design decisions that not only look beautiful but also enhance usability and drive conversions through thoughtful user journeys and interface elements.",
+      "features": [
+        "User research and personas",
+        "User journey mapping",
+        "Information architecture",
+        "Wireframing and prototyping",
+        "Visual design and UI systems",
+        "Interactive prototypes",
+        "Usability testing",
+        "Design systems creation",
+        "Mobile and responsive design",
+        "Accessibility considerations",
+        "Animation and microinteractions",
+        "Design handoff for developers"
+      ],
+      "technologies": [
+        "Figma", "Adobe XD", "Sketch", "InVision", "Principle", "Adobe Illustrator", "Adobe Photoshop"
+      ],
+      "priceRanges": [
+        {
+          "name": "Basic",
+          "price": "$1,499",
+          "features": [
+            "User research summary",
+            "5-7 screen designs",
+            "Wireframes and mockups",
+            "Basic prototype",
+            "1 round of revisions"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$2,999",
+          "features": [
+            "Comprehensive user research",
+            "User personas and journey maps",
+            "10-15 screen designs",
+            "Wireframes and mockups",
+            "Interactive prototype",
+            "Design system basics",
+            "2 rounds of revisions"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$5,999+",
+          "features": [
+            "In-depth user research and analysis",
+            "Competitive analysis",
+            "User personas and journey maps",
+            "20+ screen designs",
+            "Comprehensive design system",
+            "High-fidelity interactive prototype",
+            "Usability testing with real users",
+            "Animation specifications",
+            "3 rounds of revisions",
+            "Developer handoff documentation"
+          ]
+        }
+      ],
+      "process": [
+        "Research phase to understand users and business requirements",
+        "Information architecture and user flow diagrams",
+        "Low-fidelity wireframes to establish layout and functionality",
+        "High-fidelity mockups with full visual design",
+        "Interactive prototyping for testing",
+        "Usability testing and iteration",
+        "Final design handoff with developer specifications"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Graphics Design",
+      "shortDesc": "Stand out with professional graphic design that communicates your brand message effectively and memorably.",
+      "icon": "graphics",
+      "colorTheme": "red",
+      "description": "I design compelling visuals that communicate your brand message effectively across different mediums. From logos and brand identity to marketing materials, I create designs that make an impact.",
+      "detailedDescription": "Great design communicates your message visually and emotionally. My graphic design services help businesses establish a strong brand identity through consistent visual elements, from logos and brand guidelines to marketing materials and social media assets.",
+      "features": [
+        "Logo design and branding",
+        "Brand identity guidelines",
+        "Marketing materials",
+        "Social media graphics",
+        "Print design",
+        "Packaging design",
+        "Promotional materials",
+        "Infographics and data visualization",
+        "Editorial design",
+        "Event materials",
+        "Signage and environmental graphics",
+        "Presentation design"
+      ],
+      "technologies": [
+        "Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign", "Procreate", "Affinity Designer"
+      ],
+      "priceRanges": [
+        {
+          "name": "Basic",
+          "price": "$499",
+          "features": [
+            "Logo design (2-3 concepts)",
+            "Business card design",
+            "Basic brand guidelines",
+            "Social media profile images",
+            "1 round of revisions"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$999",
+          "features": [
+            "Logo design (3-5 concepts)",
+            "Complete stationery design",
+            "Comprehensive brand guidelines",
+            "Social media templates (3 formats)",
+            "Basic marketing materials",
+            "2 rounds of revisions"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$1,999+",
+          "features": [
+            "Logo design (5+ concepts)",
+            "Complete brand identity package",
+            "Extensive brand guidelines",
+            "Social media content templates (5+ formats)",
+            "Print and digital marketing materials",
+            "Packaging or merchandise design",
+            "3 rounds of revisions",
+            "Ongoing design support for 1 month"
+          ]
+        }
+      ],
+      "process": [
+        "Brand discovery session to understand values and vision",
+        "Research and mood board creation",
+        "Concept development with multiple directions",
+        "Refinement of selected concept",
+        "Finalization and delivery of assets",
+        "Brand guidelines documentation",
+        "File preparation for different use cases"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing",
+      "shortDesc": "Grow your online presence and reach your target audience with data-driven digital marketing strategies.",
+      "icon": "marketing",
+      "colorTheme": "green",
+      "description": "I develop tailored digital marketing strategies that increase your online visibility, drive qualified traffic, and convert visitors into customers. My data-driven approach ensures measurable results.",
+      "detailedDescription": "In today's digital landscape, effective marketing requires a multi-channel approach backed by data and analytics. I provide comprehensive digital marketing services that help businesses increase visibility, engagement, and conversions through targeted campaigns and content strategies.",
+      "features": [
+        "SEO optimization",
+        "Content marketing strategy",
+        "Social media marketing",
+        "Email marketing campaigns",
+        "Pay-per-click advertising",
+        "Analytics and reporting",
+        "Conversion rate optimization",
+        "Landing page optimization",
+        "Competitor analysis",
+        "Marketing automation",
+        "A/B testing",
+        "Retargeting campaigns"
+      ],
+      "technologies": [
+        "Google Analytics", "Google Ads", "Facebook Ads Manager", "Mailchimp", "HubSpot", "SEMrush", "Ahrefs", "Hootsuite"
+      ],
+      "priceRanges": [
+        {
+          "name": "Basic",
+          "price": "$999/mo",
+          "features": [
+            "SEO basics setup",
+            "2 social media platforms management",
+            "Monthly content calendar",
+            "Basic analytics reporting",
+            "1 blog post per month",
+            "Weekly social media posts"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$1,999/mo",
+          "features": [
+            "Comprehensive SEO optimization",
+            "3-4 social media platforms management",
+            "Content marketing strategy",
+            "Email marketing campaigns",
+            "Basic PPC campaign management",
+            "Bi-weekly analytics reporting",
+            "2-3 blog posts per month",
+            "Daily social media posts"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$3,999+/mo",
+          "features": [
+            "Advanced SEO and content strategy",
+            "Full social media management",
+            "Comprehensive PPC campaigns",
+            "Email marketing automation",
+            "Conversion rate optimization",
+            "Custom dashboard reporting",
+            "4+ blog posts per month",
+            "Lead generation campaigns",
+            "Marketing automation setup",
+            "Weekly strategy calls"
+          ]
+        }
+      ],
+      "process": [
+        "Marketing audit and goal setting",
+        "Target audience analysis and persona development",
+        "Channel strategy and campaign planning",
+        "Content creation and asset development",
+        "Campaign implementation across channels",
+        "Continuous monitoring and optimization",
+        "Regular reporting and strategy refinement"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Video Editing",
+      "shortDesc": "Transform your raw footage into compelling stories with professional video editing services.",
+      "icon": "video",
+      "colorTheme": "purple",
+      "description": "I transform raw footage into polished, engaging videos optimized for different platforms and purposes. From promotional content to tutorials, I handle all aspects of video post-production.",
+      "detailedDescription": "Video is one of the most engaging forms of content today. My video editing services help you create professional, eye-catching videos that capture attention and effectively communicate your message across social media, websites, and marketing campaigns.",
+      "features": [
+        "Video cutting and trimming",
+        "Color correction and grading",
+        "Audio enhancement",
+        "Motion graphics and animations",
+        "Transitions and effects",
+        "Title design and lower thirds",
+        "Music and sound effects",
+        "Stock footage integration",
+        "Green screen compositing",
+        "Video compression for different platforms",
+        "Subtitles and captions",
+        "Promotional video creation"
+      ],
+      "technologies": [
+        "Adobe Premiere Pro", "After Effects", "DaVinci Resolve", "Audition", "Final Cut Pro", "Motion"
+      ],
+      "priceRanges": [
+        {
+          "name": "Basic",
+          "price": "$299",
+          "features": [
+            "Up to 2-minute final video",
+            "Basic cuts and transitions",
+            "Simple text overlays",
+            "Background music",
+            "1 round of revisions"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$599",
+          "features": [
+            "Up to 5-minute final video",
+            "Advanced editing techniques",
+            "Basic motion graphics",
+            "Color correction",
+            "Audio enhancement",
+            "Custom text animations",
+            "2 rounds of revisions"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$1,499+",
+          "features": [
+            "Up to 10-minute final video",
+            "Advanced motion graphics",
+            "Complex visual effects",
+            "Professional color grading",
+            "Advanced audio editing",
+            "Custom animations and transitions",
+            "Lower thirds and title design",
+            "Multiple format exports",
+            "3 rounds of revisions"
+          ]
+        }
+      ],
+      "process": [
+        "Initial consultation to understand project goals",
+        "Reviewing raw footage and creating an editing plan",
+        "Rough cut assembly for initial feedback",
+        "Fine editing with transitions and effects",
+        "Color grading and audio enhancement",
+        "Graphics and text integration",
+        "Final review and revisions",
+        "Export and delivery in required formats"
+      ]
+    }
+  ]
+}

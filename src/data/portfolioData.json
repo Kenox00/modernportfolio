@@ -1,0 +1,164 @@
+{
+  "portfolioItems": [
+    {
+      "id": 1,
+      "title": "Mobile Banking Design",
+      "category": "UX/UI Design",
+      "imagePath": "1000030.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Express Co.",
+        "category": "UI/UX Design, Web Design",
+        "startDate": "10 May 2023",
+        "completionDate": "25 Jul 2023",
+        "website": "www.example.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["1000030.jpg", "1000030.jpg"],
+      "tags": ["UX/UI Design", "Mobile App"]
+    },
+    {
+      "id": 2,
+      "title": "Business Card Design",
+      "category": "Graphic Design",
+      "imagePath": "1010788.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Brand Co.",
+        "category": "Graphic Design, Print",
+        "startDate": "5 June 2023",
+        "completionDate": "15 June 2023",
+        "website": "www.brandco.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["1010788.jpg", "1010788.jpg"],
+      "tags": ["Graphic Design", "Print Design"]
+    },
+    {
+      "id": 3,
+      "title": "Website Redesign",
+      "category": "Web Design",
+      "imagePath": "11130251.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Tech Solutions",
+        "category": "Web Design, Frontend",
+        "startDate": "1 April 2023",
+        "completionDate": "30 May 2023",
+        "website": "www.techsolutions.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["11130251.jpg", "11130251.jpg"],
+      "tags": ["Web Design", "UI/UX"]
+    },
+    {
+      "id": 4,
+      "title": "Brand Identity Design",
+      "category": "Branding",
+      "imagePath": "11130385.png",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Global Foods",
+        "category": "Branding, Logo Design",
+        "startDate": "15 March 2023",
+        "completionDate": "20 April 2023",
+        "website": "www.globalfoods.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["11130385.png", "11130385.png"],
+      "tags": ["Branding", "Logo Design"]
+    },
+    {
+      "id": 5,
+      "title": "Mobile UI Design",
+      "category": "UX/UI Design",
+      "imagePath": "1000030.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Fitness App",
+        "category": "UI/UX Design, Mobile",
+        "startDate": "5 February 2023",
+        "completionDate": "20 March 2023",
+        "website": "www.fitnessapp.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["1000030.jpg", "1000030.jpg"],
+      "tags": ["Mobile Design", "UI/UX"]
+    },
+    {
+      "id": 6,
+      "title": "Resume Template Design",
+      "category": "Graphic Design",
+      "imagePath": "1010788.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Career Hub",
+        "category": "Graphic Design, Template",
+        "startDate": "1 January 2023",
+        "completionDate": "15 January 2023",
+        "website": "www.careerhub.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["1010788.jpg", "1010788.jpg"],
+      "tags": ["Graphic Design", "Resume"]
+    },
+    {
+      "id": 7,
+      "title": "E-commerce Website",
+      "category": "Web Design",
+      "imagePath": "11130251.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Fashion Store",
+        "category": "Web Design, E-commerce",
+        "startDate": "10 December 2022",
+        "completionDate": "25 January 2023",
+        "website": "www.fashionstore.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["11130251.jpg", "11130251.jpg"],
+      "tags": ["Web Design", "E-commerce"]
+    },
+    {
+      "id": 8,
+      "title": "Social Media Kit",
+      "category": "Graphic Design",
+      "imagePath": "11130385.png",
+      "description": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit.",
+      "projectInfo": {
+        "client": "Marketing Agency",
+        "category": "Graphic Design, Social Media",
+        "startDate": "5 November 2022",
+        "completionDate": "20 November 2022",
+        "website": "www.marketingagency.com"
+      },
+      "aboutProject": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "challenge": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "solution": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "result": "Lorem ipsum dolor sit amet consectetur. Maecenas lectus lobortis quam vitae vel nec sit ultrices. Adipiscing vel suspendisse an phasellus amet sit. Sed ut viverra integer habitant tempus nisi amet. Praesent nibh volutpat eu diam lectus dignissim faucibus. Duis aliquet sit mattis hendrerit aenean habitant amet.",
+      "additionalImages": ["11130385.png", "11130385.png"],
+      "tags": ["Graphic Design", "Social Media"]
+    }
+  ]
+}
